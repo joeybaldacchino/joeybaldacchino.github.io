@@ -1,2 +1,3 @@
 name: Welclome to my wedsite.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

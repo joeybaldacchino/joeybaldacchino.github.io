@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Well, here goes nothing."
 date: 2016-03-22
 ---
 
